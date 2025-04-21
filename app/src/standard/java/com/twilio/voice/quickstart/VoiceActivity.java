@@ -60,8 +60,9 @@ import java.util.Vector;
 import kotlin.Unit;
 
 public class VoiceActivity extends AppCompatActivity implements VoiceService.Observer {
-    static final String accessToken = "PASTE_TOKEN_HERE";
-
+    // this file is in the .gitignore, if this needs to be in version control,
+    // change to .env with a plugin or somthing
+    static final String accessToken = "Placeholder";
     private static final Logger log = new Logger(VoiceActivity.class);
     private static final int PERMISSIONS_ALL = 100;
     private AudioSwitch audioSwitch;

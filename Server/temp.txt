@@ -1,0 +1,4 @@
+twilio api:core:applications:create \
+    --friendly-name=voice-android-app \
+    --voice-method=POST \
+    --voice-url="https://quickstart-9493-dev.twil.io/make-call"

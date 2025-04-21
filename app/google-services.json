@@ -1,14 +1,13 @@
-// Follow the steps in https://developers.google.com/mobile/add to generate your own google-services.json file.
 {
   "project_info": {
-    "project_number": "your_project_number",
-    "project_id": "your_project_id",
-    "storage_bucket": "your_storage_bucket"
+    "project_number": "44567613155",
+    "project_id": "voice-android-3ba79",
+    "storage_bucket": "voice-android-3ba79.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "your_mobilesdk_app_id",
+        "mobilesdk_app_id": "1:44567613155:android:8a6475d8241d51e1f83fd6",
         "android_client_info": {
           "package_name": "com.twilio.voice.quickstart"
         }
@@ -16,26 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "your_current_key"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "your_mobilesdk_app_id",
-        "android_client_info": {
-          "package_name": "com.twilio.voice.quickstart.connection_service"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "your_current_key"
+          "current_key": "AIzaSyDQwH_55BHShSmm8FbcAYChK80jxS52Nas"
         }
       ],
       "services": {
