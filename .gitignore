@@ -41,4 +41,4 @@ google-services.json
 .DS_Store
 
 # just because of the accesToken, if there is a problem, setup .env plugin
-./app/src/standard/java/com/twilio/voice/quickstart/VoiceActivity.java
+**/VoiceActivity.java
